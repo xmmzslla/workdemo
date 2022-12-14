@@ -69,7 +69,7 @@ repostory에서 프로젝트의 설명을 부여해줄 때 `READMe.md'을 사용
 
 #### 2) 블럭코드 (block code)
 
-- 백틱(`) 3개로 html, css, java등 코드를 작성할 때 사용한다.
+- 백틱(\`) 3개로 html, css, java등 코드를 작성할 때 사용한다.
 
 ```java
 public static void main(String[] arge){
