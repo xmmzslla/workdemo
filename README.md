@@ -73,6 +73,6 @@ repostory에서 프로젝트의 설명을 부여해줄 때 `READMe.md'을 사용
 
 ```java
 public static void main(String[] arge){
-  System.out.println("Hello Java")
+  System.out.println("Hello Java");
 }
 ```
