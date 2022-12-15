@@ -98,3 +98,5 @@ _이텔릭_
 
 ![dog](images/cropImg_196x196_112945520183682699.jpeg)  
 [![daum](images/daum.png)](http://www.daum.net/)
+
+<img src='images/daum.png' alt='daum'>
