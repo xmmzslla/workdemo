@@ -76,3 +76,11 @@ public static void main(String[] arge){
   System.out.println("Hello Java");
 }
 ```
+
+### 글자 강조
+
+**굵은 글씨**
+_이텔릭_
+_이텔릭_
+~~취소선~~
+<u>밑줄<u>
