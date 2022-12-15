@@ -94,4 +94,6 @@ _이텔릭_
 
 ### 이미지(images)
 
-![naver](https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fnaverwebtoon-phinf.pstatic.net%2F20221011_134%2F1665452617585BubKv_JPEG%2Fupload_484490850862122569.JPEG%3Ftype%3Dm10000%22&type=nf464_260)
+![naver](https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fnaverwebtoon-phinf.pstatic.net%2F20221011_134%2F1665452617585BubKv_JPEG%2Fupload_484490850862122569.JPEG%3Ftype%3Dm10000%22&type=nf464_260) //이미지 주소 복사
+
+![food](images/https://s.pstatic.net/static/www/mobile/edit/20221208/cropImg_728x360_112423164619685899.jpeg)
